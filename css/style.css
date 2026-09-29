@@ -112,7 +112,7 @@ a {
   color: var(--gold);
   font-size: 0.90rem;
   font-weight: 600;
-  font-family: Snell Roundhand, cursive;
+  font-family: var(--font-display);
   letter-spacing: 0.22em;
   text-transform: uppercase;
 }
@@ -201,7 +201,7 @@ a {
 
 .brand,
 .footer-brand {
-  font-family: Snell Roundhand, cursive;
+  font-family: var(--font-display);
   letter-spacing: 0.04em;
 }
 
