@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mundodeblue.github.io/sitemap.xml
